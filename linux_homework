@@ -1,0 +1,30 @@
+   0 pwd
+   1 ls
+   2 ls/
+   3 ls /
+   4 mkdir /home/animals
+   5 tree /home/
+   6 mkdir /home/animals/dogs
+   7 mkdir /home/animals/fish
+   8 mkdir /home/animals/cats
+   9 tree /home/
+  10 ls -l /home/animals
+  11 touch /home/animals/dogs/pluto
+  12 touch /home/animals/cats/garfield
+  13 touch /home/animals/fish/nemo
+  14 ls -l /home/animals/
+  15 trre /home/animals
+  16 ls -l /home/animals/cats/
+  17 ls -l /home/animals/dogs/
+  18 ls -l /home/animals/fish/
+  19 > /tmp/adam
+  20 ls -l /tmp/
+  21 mkdir /home/humans
+  22 cp /tmp/adam /home/humans/
+  23 > /tmp/evA 
+  24 mv /tmp/evA /opt/eve
+  25 ls -l /tmp/
+  26 mv /opt/eve /home/humans/
+  27 tree /home/humans/
+  28 ls -l /home/humans/
+  29 history > history.txt
